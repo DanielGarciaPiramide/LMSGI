@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist>
+    <nombre_lista></nombre_lista>
+    <canciones>
+        <cancion type="nombre_cancion" type="duracion" type="fecha_en_que_se_añadio">
+            <autores>
+                <autore>
+                    <nombre></nombre>
+                    <numero_de_oyentes_mensuales></numero_de_oyentes_mensuales>
+                </autore>
+            </autores>
+        </cancion>
+    </canciones>
+    <canciones_recomendadas></canciones_recomendadas>
+    <canciones>
+        <cancion>
+            <nombre_cancion></nombre_cancion>
+            <nombre_autor></nombre_autor>
+        </canciones>
+</playlist>
+        
