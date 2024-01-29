@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canciones>
+    <cancion duracion="" año="">
+        <titulo></titulo>
+        <compositores>
+            <compositor>
+                <nombre></nombre>
+                <apellido></apellido>
+            </compositor>
+        </compositores>
+        <productores>
+            <productor>
+                <nombre></nombre>
+                <apellido></apellido>
+            </productor>
+        </productores>
+        <sello></sello>
+        <artista></artista>
+
+    </cancion>
+</canciones>

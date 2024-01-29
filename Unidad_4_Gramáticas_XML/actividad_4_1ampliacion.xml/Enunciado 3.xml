@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catálogo>
+    <productos>
+        <producto>
+            <nombre></nombre>
+            <descripcion></descripcion>
+            <precio></precio>
+            <lista_de_caracteristicas>
+                <caracteristca>
+                    <nombre></nombre>
+                    <valor></valor>
+                </caracteristca>
+            </lista_de_caracteristicas>
+        </producto>
+
+       <producto>
+            <nombre></nombre>
+            <descripcion></descripcion>
+            <precio></precio>
+            <lista_de_caracteristicas>
+                <caracteristca>
+                    <nombre></nombre>
+                    <valor></valor>
+                </caracteristca>
+            </lista_de_caracteristicas>
+        </producto>
+    </productos>
+</catálogo>
