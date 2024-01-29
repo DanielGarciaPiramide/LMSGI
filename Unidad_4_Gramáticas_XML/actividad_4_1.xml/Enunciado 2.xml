@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<currículo>
+    <nombre></nombre>
+    <codigo></codigo>
+    <Equivalencia_en_créditos_ECTS></Equivalencia_en_créditos_ECTS>
+    <duracion></duracion>
+    <unidades>
+        <unidad1>
+            <nombre></nombre>
+            <duracion></duracion>
+        </unidad1>
+        <unidad2>
+             <nombre></nombre>
+            <duracion></duracion>
+        </unidad2>
+    </unidades>
+</currículo>
