@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+    <pedido>
+        <producto codigo="" cantidad="" descripcion="" modelo="" ><producto>
+        <cliente>
+            <nombre_completo></nombre_completo>
+            <direccion></direccion>
+            <precio></precio>
+        </cliente>
+    <pedido>
+</pedidos>
+            
+
+
