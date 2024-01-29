@@ -2,7 +2,7 @@
 <playlist>
     <nombre_lista></nombre_lista>
     <canciones>
-        <cancion type="nombre_cancion" type="duracion" type="fecha_en_que_se_añadio">
+        <cancion nombre_cancion="" duracion="" fecha_en_que_se_añadio="">
             <autores>
                 <autore>
                     <nombre></nombre>
