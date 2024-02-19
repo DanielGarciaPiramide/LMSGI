@@ -1,14 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <pedidos>
     <pedido>
-        <producto codigo="" cantidad="" descripcion="" modelo="" ><producto>
         <cliente>
-            <nombre_completo></nombre_completo>
-            <direccion></direccion>
-            <precio></precio>
+            <nombre>Roberto Movilla</nombre>
+            <contacto>Alicia Abad</contacto>
+            <direccionEnvio>
+                <calle>Plaza de la Duquesa 12</calle>
+                <ciudad>Albacete</ciudad>
+                <codigoPostal>05020</codigoPostal>
+            </direccionEnvio>
+            <direccionFacturacion>
+                <calle>General Ricardos 56</calle>
+                <ciudad>Madrid</ciudad>
+                <codigoPostal>28055</codigoPostal>
+            </direccionFacturacion>
         </cliente>
-    <pedido>
+        <productos>
+            <producto tipo="cortadora" codigo="872-AA" precio="148.95" electrico="si">
+                <descripcion>Cortadora de cesped electrica</descripcion>
+            </producto>
+            <producto tipo="podadora" codigo="926-FH" precio="7.98" cantidad="3">
+                <descripcion>Podadora de setos</descripcion>
+            </producto>
+        </productos>
+    </pedido>
 </pedidos>
-            
-
-
